@@ -1,12 +1,12 @@
 body {
   margin: 0;
   font-family: 'Poppins', Arial, sans-serif;
-  background-color: #f3f4f6; /* Light gray background */
-  color: #111827; /* Dark text */
+  background-color: #f3f4f6; 
+  color: #111827; 
 }
 
 header {
-  background-color: #4f46e5; /* Indigo color */
+  background-color: #4f46e5; 
   color: white;
   padding: 20px;
 }
